@@ -2,8 +2,8 @@ A - first mod
 B - first mod
 C - second mod
 D - second mod
-E
-F
+E - step 18
+F - step 18
 G
 H
 I
