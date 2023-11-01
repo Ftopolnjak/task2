@@ -6,5 +6,10 @@ O
 P
 Q
 R
+<<<<<<< HEAD
 S - different info
 T - different info
+=======
+S - update
+T - update
+>>>>>>> git_2
