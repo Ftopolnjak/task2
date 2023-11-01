@@ -1,7 +1,7 @@
 A - first mod
 B - first mod
-C
-D
+C - second mod
+D - second mod
 E
 F
 G
